@@ -3,6 +3,7 @@
 Trybe's first fundamentals module project.
 
 My first project using #HTML and #CSS was successfully approved. 🚀🚀🚀
+
 My main goals with this project were styling elements using CSS and create a HTML page clean and easy to maintain.
 
 ## Requisitos do projeto (project requirements):
