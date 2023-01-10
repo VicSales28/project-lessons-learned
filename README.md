@@ -1,6 +1,6 @@
-# project-lessons-learned
+# Lessons learned (TRYBE)
 
-# Trybe's first fundamentals module project
+Trybe's first fundamentals module project
 
 # Requisitos do projeto (project requirements):
 
