@@ -2,7 +2,7 @@
 
 Trybe's first fundamentals module project
 
-# Requisitos do projeto (project requirements):
+## Requisitos do projeto (project requirements):
 
 ## 1. Adicione uma cor de fundo específica para a página
 
@@ -174,7 +174,7 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 
 ---
  
-# Requisitos Bônus
+## Requisitos Bônus
 
 ## 12. Adicione uma tabela à página
 
