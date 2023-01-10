@@ -6,6 +6,12 @@ My first project using #HTML and #CSS was successfully approved. 🚀🚀🚀
 
 My main goals with this project were styling elements using CSS and create a HTML page clean and easy to maintain.
 
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/115190439/211547807-46ba72de-98fb-41c1-b07c-c4b673ac5c4d.png"
+    alt="result-video" height="300" style="border-radius:50px;">
+</p>
+
 ## Requisitos do projeto (project requirements):
 
 ## 1. Adicione uma cor de fundo específica para a página
