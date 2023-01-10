@@ -1,0 +1,55 @@
+body {
+  background-color: rgb(253, 251, 251);
+  padding: 90px 0 0 0;
+  width: 960px;
+  margin: auto;
+  font-family: Montserrat;
+  line-height: 150%;
+}
+#cabecalho {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgb(199,21,133);
+  color: rgb(253,245,230);
+  text-align: center;
+  font-family: Montserrat;
+}
+#minha_foto {
+  border-radius: 50%;
+  width: 30%;
+  display: inline-block;
+  margin-bottom: 240px;
+  margin-right: 80px;
+  margin-top: 10px;
+  float: right;
+}
+#listas {
+  display: inline-block;
+}
+.titulo_destacado {
+  display: table;
+  padding: 5px;
+  font-size: 25px;
+  background-color: rgb(221,160,221);
+  color: rgb(28,28,28);
+}
+.lado-esquerdo {
+  display: inline-block;
+  width: 60%;
+  padding: 20px;
+}
+.lado-direito {
+  display: inline-block;
+  width: 25%;
+  padding: 20px;
+}
+#rodape {
+  font-size: 12px;
+  font-family: Montserrat;
+  background-color: rgb(72,191,132);
+  width: 100%;
+  text-align: center;
+  height: 100px;
+}
