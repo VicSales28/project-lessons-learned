@@ -6,15 +6,9 @@ My first project using ✨HTML✨ and ✨CSS✨ was successfully approved. 🚀�
 
 My main goals with this project were styling elements using CSS and create a HTML page clean and easy to maintain.
 
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/115190439/211547807-46ba72de-98fb-41c1-b07c-c4b673ac5c4d.png"
-    alt="result-video" height="300" style="border-radius:50px;">
-</p>
-
 <details>
 
-<summary><strong>Project objectives 🎯</strong>
+<summary><strong>🎯 Objectives</strong>
 </summary><br/>
 
 
@@ -252,3 +246,16 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 </details>
 
 </details>
+
+<details>
+  <summary><strong>🗣 Feedbacks</strong></summary><br />
+  
+_Give me feedbacks, I'm open to new ideas_ 😉
+
+</details>
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/115190439/211547807-46ba72de-98fb-41c1-b07c-c4b673ac5c4d.png"
+    alt="result-video" height="300" style="border-radius:50px;">
+</p>
