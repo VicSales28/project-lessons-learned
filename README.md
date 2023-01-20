@@ -12,7 +12,11 @@ My main goals with this project were styling elements using CSS and create a HTM
     alt="result-video" height="300" style="border-radius:50px;">
 </p>
 
-## Requisitos do projeto (project requirements):
+<details>
+
+<summary><strong>Project objectives 🎯</strong>
+</summary><br/>
+
 
 ## 1. Adicione uma cor de fundo específica para a página
 
@@ -247,4 +251,4 @@ Lembre-se que tudo dentro da tag `aside` será contabilizado como caractere.
 
 </details>
 
----
+</details>
