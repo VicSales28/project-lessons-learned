@@ -6,6 +6,8 @@ My first project using ✨HTML✨ and ✨CSS✨ was successfully approved. 🚀�
 
 My main goals with this project were styling elements using CSS and create a HTML page clean and easy to maintain.
 
+Date of my best commit: October 24, 2022 at 10:06 am
+
 <details>
 
 <summary><strong>🎯 Objectives</strong>
